@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Guilherme%20Coelho%20👾&fontColor=000000&fontSize=0&desc=BEM-VINDO%20AO%20MEU%20GITHUB&descAlign=50&descAlignY=69">
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Guilherme%20Coelho%20👾&fontColor=800080&fontSize=0&desc=BEM-VINDO%20AO%20MEU%20GITHUB&descAlign=50&descAlignY=69">
 </h1>  
 
 <p align="center">
