@@ -29,7 +29,6 @@ Conecte-se comigo!
   <img src="https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
-  <img src="">
 </p>
 
 
