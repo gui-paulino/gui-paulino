@@ -36,7 +36,8 @@ Conecte-se comigo!
 | Certicaçao | Nome |
 |---|---|
 | ![CCNA ITN]( https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat&logo=cisco&logoColor=white&color=%231BA0D7) | Cisco NetAcademy Introduction To Network |
-| ![AWS](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=white&color=%23FF9900) |AWS Academy Cloud Foundations|
+| ![CCNA ITN](https://img.shields.io/badge/_CISCO_Switching_Routing_and_Wireless_Essentials-t?style=flat&logo=cisco&logoColor=white&color=%231BA0D7&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F11d2df35-37d4-4c94-9bdc-7083e1906489%2Fpublic_url)| Cisco Switching, Routing, and Wireless Essentials |
+| ![AWS](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=white&color=%23FF9900&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F2ee40888-c520-4381-b2b1-54455a1ff02b%2Fpublic_url) |AWS Academy Cloud Foundations|
 
 
 
