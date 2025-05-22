@@ -1,9 +1,9 @@
 <h1 align="center">
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Guilherme%20Coelho%20👾&fontColor=800080&fontSize=0&desc=BEM-VINDO%20AO%20MEU%20GITHUB&descAlign=50&descAlignY=69">
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Guilherme%20Coelho%20👾&fontColor=9c479a&fontSize=0&desc=BEM-VINDO%20AO%20MEU%20GITHUB&descAlign=50&descAlignY=69">
 </h1>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=+Network+Analyst+%7C+NOC+">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3d003d&width=435&lines=+Network+Analyst+%7C+NOC+">
 </p>  
 
 ## Sobre Mim
@@ -31,7 +31,12 @@ Conecte-se comigo!
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
 </p>
 
+## Certifições
 
+| Certicaçao | Nome |
+|---|---|
+| ![CCNA ITN]( https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat&logo=cisco&logoColor=white&color=%231BA0D7) | Cisco NetAcademy Introduction To Network |
+| ![AWS](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=white&color=%23FF9900) |AWS Academy Cloud Foundations|
 
 
 
