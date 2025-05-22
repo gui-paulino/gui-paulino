@@ -41,12 +41,18 @@ Conecte-se comigo!
 | ![AWS](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=white&color=%23FF9900&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F2ee40888-c520-4381-b2b1-54455a1ff02b%2Fpublic_url) |AWS Academy Cloud Foundations|
 
 
+---
 
+## Projetos
 
+- Casa Inteligente voltada aos PCDs com o uso de IoT
+- Monitoramento: On premisses com uso de Zabbix & Grafana
+- Intrafestrutura em Nuvem AWS e Cloud
+- Cabeamento Estruturado (Simulando Ambiente Real)
 
-
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gui-paulino&theme=shadow-purple&hide_border=true&short_numbers=true&mode=weekly&type=png">
+</p>
 
 
 
